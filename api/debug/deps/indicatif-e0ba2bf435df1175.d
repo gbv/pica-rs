@@ -1,0 +1,13 @@
+/home/runner/work/pica-rs/pica-rs/target/docs/api/debug/deps/indicatif-e0ba2bf435df1175.rmeta: /home/runner/.cargo/registry/src/github.com-1ecc6299db9ec823/indicatif-0.17.3/src/lib.rs /home/runner/.cargo/registry/src/github.com-1ecc6299db9ec823/indicatif-0.17.3/src/draw_target.rs /home/runner/.cargo/registry/src/github.com-1ecc6299db9ec823/indicatif-0.17.3/src/format.rs /home/runner/.cargo/registry/src/github.com-1ecc6299db9ec823/indicatif-0.17.3/src/iter.rs /home/runner/.cargo/registry/src/github.com-1ecc6299db9ec823/indicatif-0.17.3/src/multi.rs /home/runner/.cargo/registry/src/github.com-1ecc6299db9ec823/indicatif-0.17.3/src/progress_bar.rs /home/runner/.cargo/registry/src/github.com-1ecc6299db9ec823/indicatif-0.17.3/src/state.rs /home/runner/.cargo/registry/src/github.com-1ecc6299db9ec823/indicatif-0.17.3/src/style.rs /home/runner/.cargo/registry/src/github.com-1ecc6299db9ec823/indicatif-0.17.3/src/term_like.rs
+
+/home/runner/work/pica-rs/pica-rs/target/docs/api/debug/deps/indicatif-e0ba2bf435df1175.d: /home/runner/.cargo/registry/src/github.com-1ecc6299db9ec823/indicatif-0.17.3/src/lib.rs /home/runner/.cargo/registry/src/github.com-1ecc6299db9ec823/indicatif-0.17.3/src/draw_target.rs /home/runner/.cargo/registry/src/github.com-1ecc6299db9ec823/indicatif-0.17.3/src/format.rs /home/runner/.cargo/registry/src/github.com-1ecc6299db9ec823/indicatif-0.17.3/src/iter.rs /home/runner/.cargo/registry/src/github.com-1ecc6299db9ec823/indicatif-0.17.3/src/multi.rs /home/runner/.cargo/registry/src/github.com-1ecc6299db9ec823/indicatif-0.17.3/src/progress_bar.rs /home/runner/.cargo/registry/src/github.com-1ecc6299db9ec823/indicatif-0.17.3/src/state.rs /home/runner/.cargo/registry/src/github.com-1ecc6299db9ec823/indicatif-0.17.3/src/style.rs /home/runner/.cargo/registry/src/github.com-1ecc6299db9ec823/indicatif-0.17.3/src/term_like.rs
+
+/home/runner/.cargo/registry/src/github.com-1ecc6299db9ec823/indicatif-0.17.3/src/lib.rs:
+/home/runner/.cargo/registry/src/github.com-1ecc6299db9ec823/indicatif-0.17.3/src/draw_target.rs:
+/home/runner/.cargo/registry/src/github.com-1ecc6299db9ec823/indicatif-0.17.3/src/format.rs:
+/home/runner/.cargo/registry/src/github.com-1ecc6299db9ec823/indicatif-0.17.3/src/iter.rs:
+/home/runner/.cargo/registry/src/github.com-1ecc6299db9ec823/indicatif-0.17.3/src/multi.rs:
+/home/runner/.cargo/registry/src/github.com-1ecc6299db9ec823/indicatif-0.17.3/src/progress_bar.rs:
+/home/runner/.cargo/registry/src/github.com-1ecc6299db9ec823/indicatif-0.17.3/src/state.rs:
+/home/runner/.cargo/registry/src/github.com-1ecc6299db9ec823/indicatif-0.17.3/src/style.rs:
+/home/runner/.cargo/registry/src/github.com-1ecc6299db9ec823/indicatif-0.17.3/src/term_like.rs:

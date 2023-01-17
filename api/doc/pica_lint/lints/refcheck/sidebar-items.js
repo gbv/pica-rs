@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"constant":[["FIELDS",""]],"enum":[["__Field",""]],"macro":[["try",""]],"struct":[["RefCheck",""],["__FieldVisitor",""],["__Visitor",""]]};

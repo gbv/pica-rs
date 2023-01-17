@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"constant":[["FIELDS",""]],"enum":[["__Field",""]],"macro":[["codes",""],["try",""]],"static":[["ISO639_CODES",""]],"struct":[["Iso639",""],["__FieldVisitor",""],["__Visitor",""]]};

@@ -1,0 +1,15 @@
+/home/runner/work/pica-rs/pica-rs/target/docs/api/debug/deps/anyhow-0bc8ff2544d321bc.rmeta: /home/runner/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.68/src/lib.rs /home/runner/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.68/src/backtrace.rs /home/runner/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.68/src/chain.rs /home/runner/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.68/src/context.rs /home/runner/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.68/src/ensure.rs /home/runner/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.68/src/error.rs /home/runner/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.68/src/fmt.rs /home/runner/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.68/src/kind.rs /home/runner/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.68/src/macros.rs /home/runner/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.68/src/ptr.rs /home/runner/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.68/src/wrapper.rs
+
+/home/runner/work/pica-rs/pica-rs/target/docs/api/debug/deps/anyhow-0bc8ff2544d321bc.d: /home/runner/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.68/src/lib.rs /home/runner/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.68/src/backtrace.rs /home/runner/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.68/src/chain.rs /home/runner/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.68/src/context.rs /home/runner/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.68/src/ensure.rs /home/runner/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.68/src/error.rs /home/runner/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.68/src/fmt.rs /home/runner/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.68/src/kind.rs /home/runner/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.68/src/macros.rs /home/runner/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.68/src/ptr.rs /home/runner/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.68/src/wrapper.rs
+
+/home/runner/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.68/src/lib.rs:
+/home/runner/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.68/src/backtrace.rs:
+/home/runner/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.68/src/chain.rs:
+/home/runner/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.68/src/context.rs:
+/home/runner/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.68/src/ensure.rs:
+/home/runner/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.68/src/error.rs:
+/home/runner/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.68/src/fmt.rs:
+/home/runner/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.68/src/kind.rs:
+/home/runner/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.68/src/macros.rs:
+/home/runner/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.68/src/ptr.rs:
+/home/runner/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.68/src/wrapper.rs:
